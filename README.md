@@ -1,0 +1,2 @@
+# AlgDat
+Obligatoriske oppgaver
